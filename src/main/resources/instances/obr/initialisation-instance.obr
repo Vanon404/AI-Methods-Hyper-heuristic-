@@ -1,0 +1,25 @@
+NAME : test instance for initialisation
+COMMENT : created by warren g. jackson for the in-lab practical exam 08-MAY-2026
+BUS_DEPOT_LOCATION
+0 0
+POINTS_OF_INTEREST
+1 2
+2 0
+1 -2
+3 1
+3 -1
+5 0
+8 0
+11 1
+14 -1
+20 0
+21 2
+22 0
+21 -2
+23 1
+23 -1
+25 0
+27 1
+27 -1
+29 0
+EOF
